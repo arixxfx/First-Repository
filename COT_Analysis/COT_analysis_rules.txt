@@ -1,0 +1,37 @@
+
+1. Daten beschaffen
+	•	☐ Aktuellen COT-Report öffnen (CFTC, TradingView, cot-daten.de)
+	•	☐ Markt auswählen (z. B. Gold, EUR/USD, Öl)
+	•	☐ Folgende Werte notieren:
+	•	☐ Commercials: Long, Short, Netto
+	•	☐ Large Speculators: Long, Short, Netto
+	•	☐ Open Interest (gesamt)
+	•	☐ Veränderung zur Vorwoche (Delta)
+
+⸻
+
+2. Extremwerte erkennen
+	•	☐ Sind die Commercials extrem long (historisch hoch)? → bullish
+	•	☐ Sind die Commercials extrem short (historisch hoch)? → bearish
+	•	☐ Sind die Large Speculators extrem positioniert? → Kontraindikator
+	•	☐ Sind die kleinen Spekulanten (Retail) extrem? → häufig falsch → konträr betrachten
+	•	☐ COT-Index (0–100 %) prüfen:
+	•	☐ > 80 = tend. bullish
+	•	☐ < 20 = tend. bearish
+
+⸻
+
+3. Positionsänderungen analysieren
+	•	☐ Haben die Commercials stark umgeschichtet (Delta groß)?
+	•	☐ Haben die Large Specs stark gekauft/verkauft?
+	•	☐ Kommen viele neue Kontrakte in den Markt (OI ↑)?
+	•	☐ Werden Positionen abgebaut (OI ↓)?
+
+⸻
+
+4. COT-Daten mit dem Chart abgleichen
+	•	☐ Preisverlauf prüfen (steigend/fallend/konsolidierend)
+	•	☐ Passt das COT-Signal zum Chartbild?
+	•	☐ Liegt der Preis in einer wichtigen Zone (Unterstützung/Widerstand)?
+
+⸻
